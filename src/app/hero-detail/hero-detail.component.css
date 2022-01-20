@@ -1,6 +1,6 @@
 /* HeroDetailComponent's private CSS styles */
 label {
-  color: #435960;
+  color: #ffffff;
   font-weight: bold;
 }
 input {
@@ -21,8 +21,4 @@ button:disabled {
   background-color: #eee;
   color: #ccc;
   cursor: auto;
-}
-*{
-  
-  background-color:#303030
 }
